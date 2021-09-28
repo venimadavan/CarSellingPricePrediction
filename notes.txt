@@ -1,0 +1,17 @@
+Download the data set from
+https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
+
+task 1 : create a model
+Better to create a new environment.
+Open anaconda prompt
+create anaconda environment
+  conda create -n myenv python=3.6 
+	conda create -n car_prediction python=3.7
+After package installation done, activate the environment
+	activate car_prediction
+cls-clear screen
+
+open the working directory
+install jupyter notebook in anaconda prompt
+create jupyter notebook from prompt
+
